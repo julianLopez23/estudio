@@ -1,0 +1,7 @@
+eco "# estudio" >> README.md
+git init
+git añadir README.md
+git commit - m "primer commit"
+rama git - M principal
+git remoto agregar origen https://github.com/julianLopez23/estudio.git
+git push - origen principal
